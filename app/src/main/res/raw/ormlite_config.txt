@@ -1,0 +1,38 @@
+#
+# generated on 2014/08/13 04:45:13
+#
+# --table-start--
+dataClass=io.github.abc549825.schedule.beans.ConfigDetail
+tableName=TB_CONFIG
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=network_state
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=wifi_state
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=sound_state
+defaultValue=0
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=shock_state
+defaultValue=0
+canBeNull=false
+# --field-end--
+# --field-start--
+fieldName=start_time
+# --field-end--
+# --field-start--
+fieldName=end_time
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
